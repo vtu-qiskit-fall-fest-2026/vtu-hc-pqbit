@@ -307,6 +307,6 @@ Released under the [MIT License](LICENSE). See `LICENSE` for details.
 **pQbit** · Team ID `VTU-QFF-HC-0034` · Tier `Both`
 · Built with ⚛️ Qiskit for the VTU-QFF Hackathon
 
-[⬆ Back to Top](#pQbit)
+[⬆ Back to Top](#pqbit)
 
 </div>
